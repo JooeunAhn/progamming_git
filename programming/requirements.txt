@@ -1,0 +1,13 @@
+-r reqs/prod.txt
+
+
+
+
+jupyter
+pillow
+requests
+colorama
+ipython
+beautifulsoup4
+jinja2
+beautifulsoup4
